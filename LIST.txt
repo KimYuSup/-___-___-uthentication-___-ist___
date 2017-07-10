@@ -18,7 +18,7 @@ b827eb82afa5
 73ebbdb
 
 //1 라파 납품  B827eb6fd34b(eth0)  b827eb3a861e(wifi)
-b827eb3a861e
+B827eb6fd34b
 b5a81c2f
 
 //1 PC 사용자
