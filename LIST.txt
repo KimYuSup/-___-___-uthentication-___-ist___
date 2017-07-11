@@ -21,11 +21,11 @@ e3a7351b
 9c5c8ec04ca9
 73ebbdb
 
-//1 라파 납품  B827eb6fd34b(eth0)  b827eb3a861e(wifi)
+//1 라파 납품 B827eb6fd34b(eth0)
 B827eb6fd34b
 b5a81c2f
 
-//1 라파 납품  B827eb6fd34b(eth0)  b827eb3a861e(wifi)
+//1 라파 납품 b827eb3a861e(wifi)
 b827eb3a861e
 9374eda5
 
