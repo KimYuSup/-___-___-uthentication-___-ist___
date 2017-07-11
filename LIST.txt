@@ -25,6 +25,10 @@ e3a7351b
 B827eb6fd34b
 b5a81c2f
 
+//1 라파 납품  B827eb6fd34b(eth0)  b827eb3a861e(wifi)
+b827eb3a861e
+9374eda5
+
 //1 PC 사용자
 002522ddce16
 788f10b4
