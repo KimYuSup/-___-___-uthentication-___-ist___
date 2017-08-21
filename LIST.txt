@@ -40,3 +40,7 @@ B827EB1AB8C0
 //2 라파 납품 B827EBAE4C3C(eth0)/b827ebfb1969(wifi)
 b827ebfb1969
 ef9da860
+
+//2 PC 사용자
+002522ddce16
+788f10b4
