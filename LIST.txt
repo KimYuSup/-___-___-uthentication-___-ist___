@@ -35,7 +35,7 @@ b827eb3a861e
 
 //2 라파 납품 B827EB1AB8C0(wifi)
 B827EB1AB8C0
-9374eda5
+B827EB4FED95
 
 //2 라파 납품 B827EBAE4C3C(eth0)/b827ebfb1969(wifi)
 b827ebfb1969
